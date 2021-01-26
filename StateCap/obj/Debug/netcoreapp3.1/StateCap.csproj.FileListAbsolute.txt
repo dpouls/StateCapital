@@ -1,0 +1,15 @@
+C:\Users\dalli\source\repos\StateCap\StateCap\bin\Debug\netcoreapp3.1\StateCap.exe
+C:\Users\dalli\source\repos\StateCap\StateCap\bin\Debug\netcoreapp3.1\StateCap.deps.json
+C:\Users\dalli\source\repos\StateCap\StateCap\bin\Debug\netcoreapp3.1\StateCap.runtimeconfig.json
+C:\Users\dalli\source\repos\StateCap\StateCap\bin\Debug\netcoreapp3.1\StateCap.runtimeconfig.dev.json
+C:\Users\dalli\source\repos\StateCap\StateCap\bin\Debug\netcoreapp3.1\StateCap.dll
+C:\Users\dalli\source\repos\StateCap\StateCap\bin\Debug\netcoreapp3.1\StateCap.pdb
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.AssemblyInfo.cs
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.dll
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.pdb
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.genruntimeconfig.cache
+C:\Users\dalli\source\repos\StateCap\StateCap\obj\Debug\netcoreapp3.1\StateCap.AddStateCapForm.resources

@@ -1,0 +1,7 @@
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\bin\Debug\StateCapConsole.exe.config
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\bin\Debug\StateCapConsole.exe
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\bin\Debug\StateCapConsole.pdb
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\obj\Debug\StateCapConsole.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\obj\Debug\StateCapConsole.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\obj\Debug\StateCapConsole.exe
+C:\Users\dalli\source\repos\StateCap\StateCapConsole\obj\Debug\StateCapConsole.pdb
